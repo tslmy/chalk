@@ -20,7 +20,7 @@ Chalk offers three functions:
 Example:
 
 ```v
-import chalk
+import etienne_napoleone.chalk
 
 # basic usage
 println('I am really ' + chalk.fg('happy', 'green'))
